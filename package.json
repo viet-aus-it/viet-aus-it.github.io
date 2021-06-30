@@ -33,7 +33,7 @@
   "dependencies": {
     "date-fns": "^2.18.0",
     "dotenv": "^8.2.0",
-    "gatsby": "^3.0.1",
+    "gatsby": "^3.8.1",
     "gatsby-plugin-google-gtag": "^3.0.0",
     "gatsby-plugin-humans-txt": "^1.1.4",
     "gatsby-plugin-image": "^1.0.0",
